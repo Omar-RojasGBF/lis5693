@@ -1,1 +1,9 @@
-
+# Contents
+The Final Project folder contains the data, Google Colab notebooks, machine learning output file, and PyLDAVvis.png visualization from topic modeling. It is orginized as follows:
+*Project_Machine_Learning.ipynb 
+*Project_Sentiment_Analysis.ipynb
+*Project_Topic_Modeling.ipynb
+*PyLDAVvis.png
+*README file
+*Predicted_data.csv
+*ufo_sightings.csv
